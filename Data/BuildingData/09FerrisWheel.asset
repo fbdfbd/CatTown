@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d8b329b486654349a9a80df3e0885b2, type: 3}
+  m_Name: 09FerrisWheel
+  m_EditorClassIdentifier: 
+  needWood: 500
+  needStone: 500
+  needIron: 700
+  needConstructSec: 0
+  buildingPrefabName: FerrisWheel
+  buildingImage: {fileID: 0}
+  buildingName: "\uAD00\uB78C\uCC28"
+  buildingCode: 9
+  description: "\uB180\uC774\uAE30\uAD6C \uC785\uB2C8\uB2E4"
+  production: 4
+  levelupNeedProductionValue: 0
+  levelupAddProductionValue: 0
+  productionWood: 0
+  productionStone: 0
+  productionIron: 0
+  productionFood: 0

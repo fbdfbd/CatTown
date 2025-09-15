@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d8b329b486654349a9a80df3e0885b2, type: 3}
+  m_Name: 08CityHall
+  m_EditorClassIdentifier: 
+  needWood: 200
+  needStone: 200
+  needIron: 200
+  needConstructSec: 0
+  buildingPrefabName: CityHall
+  buildingImage: {fileID: 0}
+  buildingName: "\uC2DC\uCCAD"
+  buildingCode: 8
+  description: "\uB2E4\uC591\uD55C\uAC78 \uB9CC\uB4ED\uB2C8\uB2E4"
+  production: 1
+  levelupNeedProductionValue: 30
+  levelupAddProductionValue: 2
+  productionWood: 2
+  productionStone: 2
+  productionIron: 2
+  productionFood: 0
